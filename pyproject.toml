@@ -10,6 +10,8 @@ django = "^3.0.4"
 coverage = "^5.0.3"
 pytest = "^5.4.0"
 pytest-django = "^3.8.0"
+codecov = "^2.0.16"
+pytest-cov = "^2.8.1"
 
 [tool.poetry.dev-dependencies]
 
